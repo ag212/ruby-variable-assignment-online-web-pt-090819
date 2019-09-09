@@ -1,2 +1,2 @@
- def greeting = "Hello World"
+ def greeting = "Hello_World"
  end
