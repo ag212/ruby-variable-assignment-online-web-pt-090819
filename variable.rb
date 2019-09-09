@@ -1,3 +1,2 @@
- def mystring = 
-   puts greeting = "Hello World"
- end
+mystring = "Hello World"
+   puts = greeting 
