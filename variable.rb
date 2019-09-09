@@ -1,2 +1,2 @@
 mystring = "Hello World"
-   puts = greeting 
+   puts = mystring 
