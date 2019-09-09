@@ -1,2 +1,2 @@
- def greeting = 'Hello World'
+ def puts greeting = 'Hello World'
  end
