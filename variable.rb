@@ -1,2 +1,2 @@
-mystring = "Hello World"
-   puts = mystring 
+greeting = "Hello World"
+   puts = greeting 
