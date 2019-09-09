@@ -1,2 +1,2 @@
- def greeting = "Hello_World"
+ def greeting = "array"
  end
